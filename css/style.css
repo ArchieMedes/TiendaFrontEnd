@@ -229,6 +229,9 @@ h1 {
 
 .talla {
     -webkit-appearance: none;
+    /*
+    -webkit-border-radius: 0px;
+    */
     grid-column: 1 / 3;
 }
 
