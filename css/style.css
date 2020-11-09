@@ -233,6 +233,10 @@ h1 {
     grid-column: 1 / 3;
 }
 
+.talla option {
+    background-color: black;
+}
+
 .boton {
     font-family: var(--fuentePrincipal);
     background-color: var(--secundario);
